@@ -1,5 +1,5 @@
 
-# 🔧 PREDICCIÓN DE FALLAS EN FRESADO INDUSTRIAL 🔧
+## 🔧 PREDICCIÓN DE FALLAS EN FRESADO INDUSTRIAL 🔧
 
 ## 📝 DESCRIPCIÓN DEL PROYECTO
 Análisis técnico para anticipar fallas en herramientas de corte accionadas por husillo en fresadoras industriales.  
