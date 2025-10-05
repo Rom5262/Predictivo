@@ -31,3 +31,9 @@ revisiones = riesgo[riesgo['accion'] == 'Revisar']
 
 🔎 El filtro por probabilidad ≥ 0.85 permite enfocar únicamente en los equipos con riesgo crítico.  
 Esto mejora la eficiencia operativa, evita revisiones innecesarias y convierte la salida del modelo en una herramienta práctica para mantenimiento.
+
+## 📈 CONCLUSIÓN GENERAL
+Ambos modelos permiten anticipar fallas con criterios técnicos claros.
+🌿 El árbol ofrece una regla directa por desgaste.
+🌲 Random Forest permite priorizar por nivel de riesgo.
+🔧 La aplicación en planta es inmediata: se priorizan revisiones, se reduce el gasto operativo y se respalda la toma de decisiones.
